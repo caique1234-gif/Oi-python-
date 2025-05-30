@@ -1,0 +1,71 @@
+body {
+  font-family: Arial, sans-serif;
+  background: url('fundo.jpg') no-repeat center center fixed;
+  background-size: cover;
+ color: #bcbdb5;
+  margin: 0;
+  padding: 0;
+background-color:  #c5e4f8;
+}
+
+nav.menu {
+  background-color: #0084ff;
+  padding: 10px;
+  position: sticky;
+  top: 0;
+}
+
+nav.menu a{
+  color: #ffff00;
+  margin-right: 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav.menu :hover {
+  text-decoration: underline;
+  color: #afcdd6;
+}
+
+section {
+  padding: 20px;
+}
+
+h1, h2, h3 {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  max-width: 700px;
+  margin: 50px;
+  padding: 25px;
+  background-color: #5cadfa;
+  border-radius: 60px;
+  box-shadow: 0 4px 5px #394039;
+  color:  #fae900;
+}
+nav {
+  color: rgb(179, 180, 166);
+}
+.box, .box2, .box3 {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; background-color:
+    #c5e4f8;
+  font-weight: 100;
+  padding: 20px;
+  margin: 40px auto;
+  width: 90%;
+  box-shadow: 0 4px 8px rgba(0,0,0, 0.4);
+  max-width: 1000px;
+ color:#020303 ; 
+  border-radius: 10px;
+}
+.Mbt {
+   max-width: 1000px;
+  margin: 40px auto;
+  padding: 10px;
+  background-color: #b9b8a7;
+  border-radius: 10px;
+}
+.centro{
+  font-size: 2.0em;
+  text-align: center;
+  color: #eeff00;
+  font-family:inherit
+}
